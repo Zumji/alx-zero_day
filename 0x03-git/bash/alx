@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 i#!/bin/bash
-echo  ALX is so cool
+ is so cool
+=======
+iecho ALX School
+>>>>>>> update_Script
